@@ -62,14 +62,7 @@ To predict on new images or validation samples:
 python predict_faces.py --interactive
 ```
 
-## Notes
-- Make sure `models/best_face_model.h5` and `models/enhanced_label_encoder.pkl` exist before running inference.
-- For Jupyter compatibility, the scripts use `parse_known_args()`.
-- **Large files:** The `dataset/`, `models/`, and all `.npy` files are not tracked in git. If you need to share models or data, use a separate storage solution.
-
 ## License
 MIT License
 
 ---
-
-**For any issues, please open an issue on this repository.** 
