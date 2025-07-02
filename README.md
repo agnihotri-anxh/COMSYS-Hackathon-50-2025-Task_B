@@ -64,5 +64,3 @@ python predict_faces.py --interactive
 
 ## License
 MIT License
-
----
