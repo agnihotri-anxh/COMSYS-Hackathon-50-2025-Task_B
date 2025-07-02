@@ -1,0 +1,23 @@
+Face Recognition Training Results
+==================================
+Total images: 13571
+Number of people: 877
+Training samples: 10178
+Validation samples: 3393
+Batch size: 32
+Learning rate: 5e-05
+Mixed precision: True
+Final training accuracy: 0.9573
+Final validation accuracy: 0.9428
+Best validation accuracy: 0.9587
+Training epochs: 75
+
+Distortion Statistics:
+  blur: 1926 images
+  fog: 1926 images
+  lowlight: 1926 images
+  noise: 1926 images
+  rain: 1926 images
+  resized: 1926 images
+  overexposed: 1926 images
+  clean: 89 images

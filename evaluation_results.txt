@@ -1,0 +1,7 @@
+Face Recognition Model Evaluation Results
+==========================================
+Top-1 Accuracy: 0.9587 (95.87%)
+Macro-averaged F1-Score: 0.9532
+Total Validation Images: 3393
+Number of Classes: 877
+

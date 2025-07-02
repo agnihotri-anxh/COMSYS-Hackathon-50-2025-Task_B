@@ -1,0 +1,5 @@
+# Ignore dataset and models directories
+/dataset/
+/models/
+# Ignore numpy array files
+*.npy 
